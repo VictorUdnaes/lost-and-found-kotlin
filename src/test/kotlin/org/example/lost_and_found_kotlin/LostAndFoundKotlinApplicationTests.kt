@@ -1,4 +1,4 @@
-package org.example.lostandfound_kotlin
+package org.example.lost_and_found_kotlin
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

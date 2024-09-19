@@ -1,8 +1,6 @@
-package org.example.lostandfound_kotlin.domain.listing
+package org.example.lost_and_found_kotlin.domain.listing
 
-import jakarta.persistence.Column
 import jakarta.persistence.Id
-import jakarta.persistence.UniqueConstraint
 import org.springframework.data.mongodb.core.index.Indexed
 import org.springframework.data.mongodb.core.mapping.Document
 

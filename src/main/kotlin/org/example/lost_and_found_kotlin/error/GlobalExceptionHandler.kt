@@ -1,4 +1,4 @@
-package org.example.lostandfound_kotlin.error
+package org.example.lost_and_found_kotlin.error
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory

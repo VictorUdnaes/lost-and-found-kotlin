@@ -1,7 +1,7 @@
-package org.example.lostandfound_kotlin.controller
+package org.example.lost_and_found_kotlin.controller
 
-import org.example.lostandfound_kotlin.domain.listing.ListingDTO
-import org.example.lostandfound_kotlin.service.ListingService
+import org.example.lost_and_found_kotlin.domain.listing.ListingDTO
+import org.example.lost_and_found_kotlin.service.ListingService
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.security.access.prepost.PreAuthorize

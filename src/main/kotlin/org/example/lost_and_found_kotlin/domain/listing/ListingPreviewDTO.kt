@@ -1,4 +1,4 @@
-package org.example.lostandfound_kotlin.domain.listing
+package org.example.lost_and_found_kotlin.domain.listing
 
 import org.jetbrains.annotations.NotNull
 

@@ -1,4 +1,4 @@
-package org.example.lostandfound_kotlin.utils
+package org.example.lost_and_found_kotlin.utils
 
 import org.springframework.dao.DuplicateKeyException
 

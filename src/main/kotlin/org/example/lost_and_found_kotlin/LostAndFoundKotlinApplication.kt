@@ -1,10 +1,9 @@
-package org.example.lostandfound_kotlin
+package org.example.lost_and_found_kotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
-import org.springframework.data.mongodb.repository.config.EnableMongoRepositories
 
-@SpringBootApplication(scanBasePackages = ["org.example.lostandfound_kotlin"])
+@SpringBootApplication(scanBasePackages = ["org.example.lost_and_found_kotlin"])
 class LostAndFoundKotlinApplication
 
 fun main(args: Array<String>) {

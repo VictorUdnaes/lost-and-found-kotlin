@@ -1,11 +1,11 @@
-package org.example.lostandfound_kotlin.service
+package org.example.lost_and_found_kotlin.service
 
 import org.springframework.dao.DuplicateKeyException
-import org.example.lostandfound_kotlin.domain.listing.Listing
-import org.example.lostandfound_kotlin.domain.listing.ListingDTO
-import org.example.lostandfound_kotlin.domain.listing.ListingRepository
-import org.example.lostandfound_kotlin.error.DatabaseServiceException
-import org.example.lostandfound_kotlin.utils.extractDuplicateAttribute
+import org.example.lost_and_found_kotlin.domain.listing.Listing
+import org.example.lost_and_found_kotlin.domain.listing.ListingDTO
+import org.example.lost_and_found_kotlin.domain.listing.ListingRepository
+import org.example.lost_and_found_kotlin.error.DatabaseServiceException
+import org.example.lost_and_found_kotlin.utils.extractDuplicateAttribute
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import org.slf4j.Logger
